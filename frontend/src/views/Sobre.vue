@@ -8,7 +8,7 @@
             <img src="../assets/img/logo.png" class="card-img-top mx-auto d-block" style="max-width: 150px; height: 120px;" alt="GitHub">
             <div class="card-body">
               <h5 class="card-title">Fabrica de Codigo</h5>
-              <p class="card-text">Entre no site</p>
+              <p class="card-text">Entre aqui</p>
               <a href="https://www.fabricadecodigos.com.br/" class="btn btn-primary" target="_blank">Clique aqui</a>
             </div>
           </div>
@@ -20,8 +20,8 @@
             <img src="../assets/img/github.png" class="card-img-top mx-auto d-block" style="max-width: 150px; max-height: 120px;" alt="GitHub">
             <div class="card-body">
               <h5 class="card-title">GitHub</h5>
-              <p class="card-text">Envie seu projeto para o GitHub.</p>
-              <a href="https://github.com/seu_usuario" class="btn btn-primary" target="_blank">Enviar para o GitHub</a>
+              <p class="card-text">Entre aqui</p>
+              <a href="https://github.com/GoFDD/projeto_P2" class="btn btn-primary" target="_blank">Enviar para o GitHub</a>
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@
             <img src="../assets/img/canva.jpg" class="card-img-top mx-auto d-block" style="max-width: 150px; height: 120px;" alt="Canva">
             <div class="card-body">
               <h5 class="card-title">Canva</h5>
-              <p class="card-text">Envie seu projeto para o Canva.</p>
+              <p class="card-text">Entre aqui</p>
               <a href="https://www.canva.com/design/DAGH3klpuRY/OnwOdDjqz6RLscK2uyxltw/edit?utm_content=DAGH3klpuRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="btn btn-primary" target="_blank">Enviar para o Canva</a>
             </div>
           </div>
