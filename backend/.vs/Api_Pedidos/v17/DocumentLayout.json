@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B03C6A5B-6583-4429-9EFE-4DD1A54F037F}|Api_Pedidos\\Api_Pedidos.csproj|c:\\users\\aula\\desktop\\atualizado\\backend\\api_pedidos\\classes_modais\\pedidosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03C6A5B-6583-4429-9EFE-4DD1A54F037F}|Api_Pedidos\\Api_Pedidos.csproj|solutionrelative:api_pedidos\\classes_modais\\pedidosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03C6A5B-6583-4429-9EFE-4DD1A54F037F}|Api_Pedidos\\Api_Pedidos.csproj|c:\\users\\aula\\desktop\\atualizado\\backend\\api_pedidos\\classes_modais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03C6A5B-6583-4429-9EFE-4DD1A54F037F}|Api_Pedidos\\Api_Pedidos.csproj|solutionrelative:api_pedidos\\classes_modais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03C6A5B-6583-4429-9EFE-4DD1A54F037F}|Api_Pedidos\\Api_Pedidos.csproj|c:\\users\\aula\\desktop\\atualizado\\backend\\api_pedidos\\api_pedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B03C6A5B-6583-4429-9EFE-4DD1A54F037F}|Api_Pedidos\\Api_Pedidos.csproj|solutionrelative:api_pedidos\\api_pedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pedidosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\Api_Pedidos\\Classes_Modais\\pedidosDbContext.cs",
+              "RelativeDocumentMoniker": "Api_Pedidos\\Classes_Modais\\pedidosDbContext.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\Api_Pedidos\\Classes_Modais\\pedidosDbContext.cs",
+              "RelativeToolTip": "Api_Pedidos\\Classes_Modais\\pedidosDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:54:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\Api_Pedidos\\Classes_Modais\\Program.cs",
+              "RelativeDocumentMoniker": "Api_Pedidos\\Classes_Modais\\Program.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\Api_Pedidos\\Classes_Modais\\Program.cs",
+              "RelativeToolTip": "Api_Pedidos\\Classes_Modais\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:53:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Api_Pedidos.csproj",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\Api_Pedidos\\Api_Pedidos.csproj",
+              "RelativeDocumentMoniker": "Api_Pedidos\\Api_Pedidos.csproj",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ATUALIZADO\\backend\\Api_Pedidos\\Api_Pedidos.csproj",
+              "RelativeToolTip": "Api_Pedidos\\Api_Pedidos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T22:48:17.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
