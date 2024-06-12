@@ -21,7 +21,7 @@
             <div class="card-body">
               <h5 class="card-title">GitHub</h5>
               <p class="card-text">Entre aqui</p>
-              <a href="https://github.com/GoFDD/projeto_P2" class="btn btn-primary" target="_blank">Enviar para o GitHub</a>
+              <a href="https://github.com/GoFDD/projeto_pedsoft" class="btn btn-primary" target="_blank">Enviar para o GitHub</a>
             </div>
           </div>
         </div>
